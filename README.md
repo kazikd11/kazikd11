@@ -1,16 +1,20 @@
-## Hi there 👋
+# My GitHub Projects
 
-<!--
-**kazikd11/kazikd11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a third-year Applied Computer Science student at AGH University of Science and Technology.
+## Projects
 
-Here are some ideas to get you started:
+### Trail Management System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A solo project for managing hiking trails, points of interest, and shelters.
+
+**Technologies:** Java, Spring Boot (Spring Web, Spring Data JDBC), Thymeleaf, REST API, PostgreSQL
+
+**Key Features:**
+- Implemented CRUD operations for managing trails, shelters, and points.
+- Designed a layered architecture with a focus on clean separation of concerns.
+- Created efficient and reusable SQL queries for database interactions.
+
+**Future Enhancements:**
+- Adding Spring Vaidation and Spring Security
+
+**Motivation:** The goal of this solo project was to practice the MVC design pattern, RESTful APIs, database management, and to deepen overall knowledge of Spring Boot ecosystem.
