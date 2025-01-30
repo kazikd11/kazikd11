@@ -2,7 +2,7 @@
 Hi! I'm a third-year Applied Computer Science student at AGH University of Science and Technology. 
 
 # My GitHub Projects
-
+ 
 ### Trail Management System
  
 A solo project for managing hiking trails, points of interest, and shelters.
