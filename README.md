@@ -6,7 +6,7 @@ Hi! I'm a third-year Applied Computer Science student at AGH University of Scien
 ### Trail Management System
   
 A solo project for managing hiking trails, points of interest, and shelters.
-
+ 
 **Technologies:** Java, Spring Boot (Spring Web, Spring Data JDBC), Thymeleaf, REST API, PostgreSQL
 
 **Key Features:**
