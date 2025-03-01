@@ -9,7 +9,7 @@ A solo project for managing hiking trails, points of interest, and shelters.
  
 **Technologies:** Java, Spring Boot (Spring Web, Spring Data JDBC), Thymeleaf, REST API, PostgreSQL
 
-**Key Features:**
+**Key Features:** 
 - Implemented CRUD operations for managing trails, shelters, and points.
 - Designed a layered architecture with a focus on clean separation of concerns.
 - Created efficient and reusable SQL queries for database interactions.
