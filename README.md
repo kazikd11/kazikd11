@@ -1,7 +1,7 @@
 
 Hi! I'm a third-year Applied Computer Science student at AGH University of Science and Technology.  
  
-# My GitHub Projects
+# My GitHub Projects 
  
 ### Trail Management System
    
