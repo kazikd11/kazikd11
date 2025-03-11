@@ -1,20 +1,13 @@
+### Hi! I'm a third-year Applied Computer Science student at AGH University of Science and Technology. 👋
 
-Hi! I'm a third-year Applied Computer Science student at AGH University  of Science and Technology.  
- 
-# My GitHub Projects 
- 
-### Trail Management System
-    
-A solo project for managing hiking trails, points of interest, and shelters.
- 
-**Technologies:** Java, Spring Boot (Spring Web, Spring Data JDBC), Thymeleaf, REST API, PostgreSQL
+I'm passionate about software development and eager to expand my skills in the tech industry. My projects span various domains, from web development to machine learning and backend systems. I love new challenges and I'm excited to continue growing as a developer and can't wait to dive deeper into the industry!
 
-**Key Features:** 
-- Implemented CRUD operations for managing trails, shelters, and points.
-- Designed a layered architecture with a focus on clean separation of concerns.
-- Created efficient and reusable SQL queries for database interactions.
+### 🔧 Technologies & Tools I Use:
 
-**Future Enhancements:**
-- Adding Spring Vaidation and Spring Security
+Programming Languages: Java, Python, JavaScript, C++, C
+Frontend: React, Tailwind CSS, Framer Motion
+Backend: Spring Boot, Django, Node.js
+Databases: PostgreSQL, MongoDB, SQL Server
+Other Tools: Docker, Git, Vite, Tomcat, Linux
 
-**Motivation:** The goal of this solo project was to practice the MVC design pattern, RESTful APIs, database management, and to deepen overall knowledge of Spring Boot ecosystem.
+Feel free to check out my projects and reach out! 😃
