@@ -1,4 +1,4 @@
-### Hi! I'm a third-year Applied Computer Science student at AGH University of Science and Technology. 👋
+### Hi! I'm a third-year Applied Computer Science student at AGH  University of Science and Technology. 👋
 
 I'm passionate about software development and eager to expand my skills in the tech industry. My projects span various domains, from web development to machine learning and backend systems. I love new challenges and I'm excited to continue growing as a developer and can't wait to dive deeper into the industry!
 
